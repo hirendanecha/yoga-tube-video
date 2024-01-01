@@ -80,9 +80,9 @@ export function app(): express.Express {
         var seo: any = {
           title: 'yoga Tube',
           description:
-            'Private video consultations with Naturopathic Doctors and Holistic Healers from around the world. Social Discussion on how to heal various ailments.',
+            'Online yoga classes. Sweat, stretch or savasana. Paticipate with amazing instuctors!',
           image:
-            'https://video.tube.yoga/assets/banner/HT-banner-default.png',
+            'https://video.tube.yoga/assets/TubeYoga-Banner.jpg',
           site: 'https://video.tube.yoga/',
           url: 'https://video.tube.yoga' + params,
           keywords: 'yoga Tube',
