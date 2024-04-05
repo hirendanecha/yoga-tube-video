@@ -35,6 +35,7 @@ export class VideoPostModalComponent implements OnInit, AfterViewInit {
   @Input() message: string;
   @Input() data: any;
   @Input() communityId: any;
+  @Input() channelList: any = [];
   postData: any = {
     id: null,
     profileid: null,
